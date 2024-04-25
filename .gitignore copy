@@ -1,0 +1,17 @@
+batch
+notebooks
+upload.sh
+demo.py
+.DS_Store
+.idea
+../.ssh/*
+.ssh/*
+.ssh
+.ssh/
+../.ssh/
+~/.ssh
+~/.ssh/
+results
+datasets
+/eos/results
+/eos/datatsets
